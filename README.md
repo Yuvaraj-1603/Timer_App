@@ -20,7 +20,7 @@ The Timer Application is a Java-based command-line utility designed to track tim
 ## Installation
 Clone the repository and navigate to the project folder:
 ```sh
-git clone https://github.com/yourusername/timer-app.git
+git clone [https://github.com/yourusername/timer-app.git](https://github.com/Yuvaraj-1603/Timer_App)
 cd timer-app
 ```
 
