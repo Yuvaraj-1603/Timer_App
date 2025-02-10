@@ -79,4 +79,10 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or support, reach out at [your-email@example.com](mailto:your-email@example.com).
+For any questions or support, reach out at 2021wa86522@wilp.bits-pilani.ac.in
+
+## Author
+
+NAME: YUVARAJ P
+ID  : 2021wa86522
+Email ID : 2021wa86522@wilp.bits-pilani.ac.in
