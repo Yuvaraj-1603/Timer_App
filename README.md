@@ -71,6 +71,7 @@ Generate a report of all tracked sessions:
 ```sh
 java -cp bin com.example.timer.TimerApp report
 ```
+![Alt Text](https://raw.githubusercontent.com/Yuvaraj-1603/Timer_App/main/one.png)
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
