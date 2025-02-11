@@ -6,16 +6,14 @@ The Timer Application is a Java-based command-line utility designed to track tim
 
 ## Features
 - **Start and Stop Timer**: Track coding sessions in Git repositories.
-- **Automatic Repository Detection**: Detects the active Git repository where the timer is running.
-- **Session Logs**: Saves logs of each session with timestamps.
-- **Report Generation**: Displays total time spent on each repository.
 - **Pause/Resume Functionality**: Allows pausing and resuming sessions.
 - **Cross-Platform**: Runs on Windows, macOS, and Linux.
 
 ## Prerequisites
 - Java 11 or later
 - Git installed on the system
-- A Git repository to track time
+- Android Studio installed on your machine
+- An Android emulator or a physical Android device
 
 ## Installation
 Clone the repository and navigate to the project folder:
@@ -71,7 +69,12 @@ Generate a report of all tracked sessions:
 ```sh
 java -cp bin com.example.timer.TimerApp report
 ```
+## Home Page:
 ![Alt Text](https://raw.githubusercontent.com/Yuvaraj-1603/Timer_App/main/one.png)
+
+## Started :
+![Alt Text](https://raw.githubusercontent.com/Yuvaraj-1603/Timer_App/main/two.png)
+
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
